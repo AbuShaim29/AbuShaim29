@@ -14,9 +14,9 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a title = "646-639-6008" href="" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/5-58825_telephone-phone-icon-phone-symbol-png-yellow-transparent.png" alt="Call" height="30" width="40" /></a>
+  <a title = "929-842-4338" href="" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/5-58825_telephone-phone-icon-phone-symbol-png-yellow-transparent.png" alt="Call" height="30" width="40" /></a>
 &nbsp;
-<a title = "alnumanqa@gmail.com" href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+<a title = "abushaimqa@gmail.com" href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
 &nbsp; <!-- Use your linkedin account url at href -->
 <a title = "LinkedIn" href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
 
@@ -136,7 +136,7 @@
 <!-- <h3>More about Me and Future Plans</h3> -->
 <!-- You can write at your own -->
 <h5>  
-This is Md Abdullah Al Numan. Currently I am working at Verizon as a Technology Lead. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
+This is ABU Shaim. Currently I am working at Verizon as a Technology Lead. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
 <br>
 In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Big Data Analysis.
 </h5>
@@ -148,7 +148,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
     Portfolio
     </h1>
    <!-- Inside href we will give our profile, also you write your name instead of mine -->
-  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Al Numan`</a>
+  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Abu Shaim`</a>
   <br>
   <!-- <h3 align="center">
     my creation another website 
